@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+# Backend FastAPI server
+github link for backend repo -> https://github.com/S0L009/surveysparrow-backend
+
+<img width="1534" height="946" alt="image" src="https://github.com/user-attachments/assets/347a2a7e-353c-4454-bf39-a0efaf14b373" />
+
+
 ## Getting Started
 
 First, run the development server:
@@ -35,3 +41,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 # Survet-Sparrow
+
+
+
+
